@@ -1,1 +1,1 @@
-Guided practice prohect by [boot.dev](https://www.boot.dev/)
+Guided practice project by [boot.dev](https://www.boot.dev/)
